@@ -12,3 +12,5 @@ This allows obtaining quantitative data on the thrombogenicity of the biomateria
 - The shorter the examination duration, the fewer cells spread away from the center of the image
 - The greater the distance from the center of the image, the less stress
 - The cells spread disproportionately in both directions from the center of the image
+
+***The project was written for the subject Mechanical Heart Support Systems**
